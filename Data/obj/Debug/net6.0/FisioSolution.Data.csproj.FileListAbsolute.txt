@@ -1,0 +1,100 @@
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\Data\bin\Debug\net6.0\FisioSolution.Data.deps.json
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\Data\bin\Debug\net6.0\FisioSolution.Data.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\Data\bin\Debug\net6.0\FisioSolution.Data.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\Data\bin\Debug\net6.0\FisioSolution.Models.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\Data\bin\Debug\net6.0\FisioSolution.Models.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\Data\obj\Debug\net6.0\FisioSolution.Data.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\Data\obj\Debug\net6.0\FisioSolution.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\Data\obj\Debug\net6.0\FisioSolution.Data.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\Data\obj\Debug\net6.0\FisioSolution.Data.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\Data\obj\Debug\net6.0\FisioSolution.Data.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\Data\obj\Debug\net6.0\FisioSolution.Data.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\Data\obj\Debug\net6.0\FisioSolution.Data.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\Data\obj\Debug\net6.0\refint\FisioSolution.Data.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\Data\obj\Debug\net6.0\FisioSolution.Data.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\Data\obj\Debug\net6.0\ref\FisioSolution.Data.dll
+C:\Users\Lenovo\OneDrive\Escritorio\ciclo DAW\Segundo ciclo\Desarrollo web en entorno servidor\1er semestre\AA\FisioSolution\Data\bin\Debug\net6.0\FisioSolution.Data.deps.json
+C:\Users\Lenovo\OneDrive\Escritorio\ciclo DAW\Segundo ciclo\Desarrollo web en entorno servidor\1er semestre\AA\FisioSolution\Data\bin\Debug\net6.0\FisioSolution.Data.dll
+C:\Users\Lenovo\OneDrive\Escritorio\ciclo DAW\Segundo ciclo\Desarrollo web en entorno servidor\1er semestre\AA\FisioSolution\Data\bin\Debug\net6.0\FisioSolution.Data.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\ciclo DAW\Segundo ciclo\Desarrollo web en entorno servidor\1er semestre\AA\FisioSolution\Data\bin\Debug\net6.0\FisioSolution.Models.dll
+C:\Users\Lenovo\OneDrive\Escritorio\ciclo DAW\Segundo ciclo\Desarrollo web en entorno servidor\1er semestre\AA\FisioSolution\Data\bin\Debug\net6.0\FisioSolution.Models.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\ciclo DAW\Segundo ciclo\Desarrollo web en entorno servidor\1er semestre\AA\FisioSolution\Data\obj\Debug\net6.0\FisioSolution.Data.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Escritorio\ciclo DAW\Segundo ciclo\Desarrollo web en entorno servidor\1er semestre\AA\FisioSolution\Data\obj\Debug\net6.0\FisioSolution.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Escritorio\ciclo DAW\Segundo ciclo\Desarrollo web en entorno servidor\1er semestre\AA\FisioSolution\Data\obj\Debug\net6.0\FisioSolution.Data.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\ciclo DAW\Segundo ciclo\Desarrollo web en entorno servidor\1er semestre\AA\FisioSolution\Data\obj\Debug\net6.0\FisioSolution.Data.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Escritorio\ciclo DAW\Segundo ciclo\Desarrollo web en entorno servidor\1er semestre\AA\FisioSolution\Data\obj\Debug\net6.0\FisioSolution.Data.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\ciclo DAW\Segundo ciclo\Desarrollo web en entorno servidor\1er semestre\AA\FisioSolution\Data\obj\Debug\net6.0\FisioSolution.Data.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Escritorio\ciclo DAW\Segundo ciclo\Desarrollo web en entorno servidor\1er semestre\AA\FisioSolution\Data\obj\Debug\net6.0\FisioSolution.Data.dll
+C:\Users\Lenovo\OneDrive\Escritorio\ciclo DAW\Segundo ciclo\Desarrollo web en entorno servidor\1er semestre\AA\FisioSolution\Data\obj\Debug\net6.0\refint\FisioSolution.Data.dll
+C:\Users\Lenovo\OneDrive\Escritorio\ciclo DAW\Segundo ciclo\Desarrollo web en entorno servidor\1er semestre\AA\FisioSolution\Data\obj\Debug\net6.0\FisioSolution.Data.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\ciclo DAW\Segundo ciclo\Desarrollo web en entorno servidor\1er semestre\AA\FisioSolution\Data\obj\Debug\net6.0\ref\FisioSolution.Data.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\Data\bin\Debug\net6.0\FisioSolution.Data.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\Data\obj\Debug\net6.0\FisioSolution.Data.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\Data\bin\Debug\net6.0\FisioSolution.Data.deps.json
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\Data\bin\Debug\net6.0\FisioSolution.Data.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\Data\bin\Debug\net6.0\FisioSolution.Data.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\Data\bin\Debug\net6.0\FisioSolution.Data.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\Data\bin\Debug\net6.0\FisioSolution.Models.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\Data\bin\Debug\net6.0\FisioSolution.Models.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\Data\obj\Debug\net6.0\FisioSolution.Data.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\Data\obj\Debug\net6.0\FisioSolution.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\Data\obj\Debug\net6.0\FisioSolution.Data.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\Data\obj\Debug\net6.0\FisioSolution.Data.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\Data\obj\Debug\net6.0\FisioSolution.Data.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\Data\obj\Debug\net6.0\FisioSolution.Data.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\Data\obj\Debug\net6.0\FisioSolution.Data.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\Data\obj\Debug\net6.0\refint\FisioSolution.Data.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\Data\obj\Debug\net6.0\FisioSolution.Data.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\Data\obj\Debug\net6.0\FisioSolution.Data.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\Data\obj\Debug\net6.0\ref\FisioSolution.Data.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\Data\bin\Debug\net6.0\FisioSolution.Data.deps.json
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\Data\bin\Debug\net6.0\FisioSolution.Data.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\Data\bin\Debug\net6.0\FisioSolution.Data.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\Data\bin\Debug\net6.0\FisioSolution.Data.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\Data\bin\Debug\net6.0\FisioSolution.Models.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\Data\bin\Debug\net6.0\FisioSolution.Models.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\Data\obj\Debug\net6.0\FisioSolution.Data.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\Data\obj\Debug\net6.0\FisioSolution.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\Data\obj\Debug\net6.0\FisioSolution.Data.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\Data\obj\Debug\net6.0\FisioSolution.Data.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\Data\obj\Debug\net6.0\FisioSolution.Data.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\Data\obj\Debug\net6.0\FisioSolution.Data.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\Data\obj\Debug\net6.0\FisioSolution.Data.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\Data\obj\Debug\net6.0\refint\FisioSolution.Data.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\Data\obj\Debug\net6.0\FisioSolution.Data.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\Data\obj\Debug\net6.0\FisioSolution.Data.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\Data\obj\Debug\net6.0\ref\FisioSolution.Data.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\Data\bin\Debug\net6.0\FisioSolution.Data.deps.json
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\Data\bin\Debug\net6.0\FisioSolution.Data.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\Data\bin\Debug\net6.0\FisioSolution.Data.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\Data\bin\Debug\net6.0\FisioSolution.Data.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\Data\bin\Debug\net6.0\FisioSolution.Models.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\Data\bin\Debug\net6.0\FisioSolution.Models.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\Data\obj\Debug\net6.0\FisioSolution.Data.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\Data\obj\Debug\net6.0\FisioSolution.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\Data\obj\Debug\net6.0\FisioSolution.Data.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\Data\obj\Debug\net6.0\FisioSolution.Data.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\Data\obj\Debug\net6.0\FisioSolution.Data.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\Data\obj\Debug\net6.0\FisioSolution.Data.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\Data\obj\Debug\net6.0\FisioSolution.Data.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\Data\obj\Debug\net6.0\refint\FisioSolution.Data.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\Data\obj\Debug\net6.0\FisioSolution.Data.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\Data\obj\Debug\net6.0\FisioSolution.Data.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\Data\obj\Debug\net6.0\ref\FisioSolution.Data.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\Data\bin\Debug\net6.0\FisioSolution.Data.deps.json
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\Data\bin\Debug\net6.0\FisioSolution.Data.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\Data\bin\Debug\net6.0\FisioSolution.Data.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\Data\bin\Debug\net6.0\FisioSolution.Data.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\Data\bin\Debug\net6.0\FisioSolution.Models.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\Data\bin\Debug\net6.0\FisioSolution.Models.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\Data\obj\Debug\net6.0\FisioSolution.Data.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\Data\obj\Debug\net6.0\FisioSolution.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\Data\obj\Debug\net6.0\FisioSolution.Data.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\Data\obj\Debug\net6.0\FisioSolution.Data.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\Data\obj\Debug\net6.0\FisioSolution.Data.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\Data\obj\Debug\net6.0\FisioSolution.Data.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\Data\obj\Debug\net6.0\FisioSolution.Data.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\Data\obj\Debug\net6.0\refint\FisioSolution.Data.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\Data\obj\Debug\net6.0\FisioSolution.Data.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\Data\obj\Debug\net6.0\FisioSolution.Data.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\Data\obj\Debug\net6.0\ref\FisioSolution.Data.dll

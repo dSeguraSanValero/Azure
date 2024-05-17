@@ -1,0 +1,26 @@
+version: '3.4'
+ 
+networks:
+    fisiosolution2.0:       
+ 
+services:
+    db:
+        networks:
+            - fisiosolution2.0
+        image: mcr.microsoft.com/mssql/server:2019-CU14-ubuntu-20.04
+        ports:
+            - 8327:1433
+        environment:
+            - ACCEPT_EULA=Y
+            - MSSQL_SA_PASSWORD=Admin1234
+    api:
+        networks:
+            - fisiosolution2.0
+        image: apidb-dockerdemo:1.2
+        ports:
+            - 7238:80 
+        build:
+          context: .
+          dockerfile: API/Dockerfile
+        depends_on:
+            - db

@@ -1,0 +1,360 @@
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\appsettings.json
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\FisioSolution.API.exe
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\FisioSolution.API.deps.json
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\FisioSolution.API.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\FisioSolution.API.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\FisioSolution.API.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\FisioSolution.Business.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\FisioSolution.Data.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\FisioSolution.Models.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\FisioSolution.Business.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\FisioSolution.Data.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\FisioSolution.Models.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\obj\Debug\net6.0\FisioSolution.API.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\obj\Debug\net6.0\FisioSolution.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\obj\Debug\net6.0\FisioSolution.API.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\obj\Debug\net6.0\FisioSolution.API.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\obj\Debug\net6.0\FisioSolution.API.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\obj\Debug\net6.0\FisioSolution.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\obj\Debug\net6.0\FisioSolution.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\obj\Debug\net6.0\scopedcss\bundle\FisioSolution.API.styles.css
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\obj\Debug\net6.0\FisioSolution.API.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\obj\Debug\net6.0\FisioSolution.API.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\obj\Debug\net6.0\refint\FisioSolution.API.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\obj\Debug\net6.0\FisioSolution.API.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\obj\Debug\net6.0\FisioSolution.API.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\obj\Debug\net6.0\ref\FisioSolution.API.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\appsettings.json
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\FisioSolution.API.exe
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\FisioSolution.API.deps.json
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\FisioSolution.API.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\FisioSolution.API.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\FisioSolution.API.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\FisioSolution.Business.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\FisioSolution.Data.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\FisioSolution.Models.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\FisioSolution.Business.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\FisioSolution.Data.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\bin\Debug\net6.0\FisioSolution.Models.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\obj\Debug\net6.0\FisioSolution.API.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\obj\Debug\net6.0\FisioSolution.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\obj\Debug\net6.0\FisioSolution.API.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\obj\Debug\net6.0\FisioSolution.API.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\obj\Debug\net6.0\FisioSolution.API.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\obj\Debug\net6.0\FisioSolution.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\obj\Debug\net6.0\FisioSolution.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\obj\Debug\net6.0\scopedcss\bundle\FisioSolution.API.styles.css
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\obj\Debug\net6.0\FisioSolution.API.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\obj\Debug\net6.0\FisioSolution.API.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\obj\Debug\net6.0\refint\FisioSolution.API.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\obj\Debug\net6.0\FisioSolution.API.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\obj\Debug\net6.0\FisioSolution.API.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia - copia\API\obj\Debug\net6.0\ref\FisioSolution.API.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\appsettings.json
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\FisioSolution.API.exe
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\FisioSolution.API.deps.json
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\FisioSolution.API.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\FisioSolution.API.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\FisioSolution.API.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\FisioSolution.Business.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\FisioSolution.Data.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\FisioSolution.Models.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\FisioSolution.Business.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\FisioSolution.Data.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\bin\Debug\net6.0\FisioSolution.Models.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\obj\Debug\net6.0\FisioSolution.API.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\obj\Debug\net6.0\FisioSolution.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\obj\Debug\net6.0\FisioSolution.API.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\obj\Debug\net6.0\FisioSolution.API.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\obj\Debug\net6.0\FisioSolution.API.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\obj\Debug\net6.0\FisioSolution.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\obj\Debug\net6.0\FisioSolution.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\obj\Debug\net6.0\scopedcss\bundle\FisioSolution.API.styles.css
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\obj\Debug\net6.0\FisioSolution.API.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\obj\Debug\net6.0\FisioSolution.API.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\obj\Debug\net6.0\refint\FisioSolution.API.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\obj\Debug\net6.0\FisioSolution.API.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\obj\Debug\net6.0\FisioSolution.API.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia\API\obj\Debug\net6.0\ref\FisioSolution.API.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\appsettings.json
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\FisioSolution.API.exe
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\FisioSolution.API.deps.json
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\FisioSolution.API.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\FisioSolution.API.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\FisioSolution.API.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\FisioSolution.Business.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\FisioSolution.Data.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\FisioSolution.Models.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\FisioSolution.Business.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\FisioSolution.Data.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\bin\Debug\net6.0\FisioSolution.Models.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\obj\Debug\net6.0\FisioSolution.API.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\obj\Debug\net6.0\FisioSolution.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\obj\Debug\net6.0\FisioSolution.API.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\obj\Debug\net6.0\FisioSolution.API.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\obj\Debug\net6.0\FisioSolution.API.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\obj\Debug\net6.0\FisioSolution.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\obj\Debug\net6.0\FisioSolution.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\obj\Debug\net6.0\scopedcss\bundle\FisioSolution.API.styles.css
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\obj\Debug\net6.0\FisioSolution.API.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\obj\Debug\net6.0\FisioSolution.API.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\obj\Debug\net6.0\refint\FisioSolution.API.dll
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\obj\Debug\net6.0\FisioSolution.API.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\obj\Debug\net6.0\FisioSolution.API.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FisioSolution - copia (2)\API\obj\Debug\net6.0\ref\FisioSolution.API.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\appsettings.json
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\FisioSolution.API.exe
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\FisioSolution.API.deps.json
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\FisioSolution.API.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\FisioSolution.API.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\FisioSolution.API.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\FisioSolution.Business.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\FisioSolution.Data.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\FisioSolution.Models.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\FisioSolution.Business.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\FisioSolution.Data.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\bin\Debug\net6.0\FisioSolution.Models.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\obj\Debug\net6.0\FisioSolution.API.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\obj\Debug\net6.0\FisioSolution.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\obj\Debug\net6.0\FisioSolution.API.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\obj\Debug\net6.0\FisioSolution.API.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\obj\Debug\net6.0\FisioSolution.API.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\obj\Debug\net6.0\FisioSolution.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\obj\Debug\net6.0\FisioSolution.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\obj\Debug\net6.0\scopedcss\bundle\FisioSolution.API.styles.css
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\obj\Debug\net6.0\FisioSolution.API.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\obj\Debug\net6.0\FisioSolution.API.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\obj\Debug\net6.0\refint\FisioSolution.API.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\obj\Debug\net6.0\FisioSolution.API.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\obj\Debug\net6.0\FisioSolution.API.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Nueva carpeta (3)\FisioSolution-2.0-main\API\obj\Debug\net6.0\ref\FisioSolution.API.dll
